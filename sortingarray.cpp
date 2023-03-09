@@ -16,7 +16,7 @@ int main() {
 			}
 		}
 	}
-	cout<<value[0];
+	cout<<value[0]<<endl;
 	cout<<"Output Sorting :"<<endl;
 	for(int x=0; x < lenght; x++){
 		cout<<" "<<value[x]<<endl;
